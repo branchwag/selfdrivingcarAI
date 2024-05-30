@@ -2,7 +2,7 @@
 
 An exploration of this tutorial:
 https://www.youtube.com/watch?v=Rs_rAxEsAvI
-Under construction! Last left off at timestamp 1:00:47
+Under construction! Last left off at timestamp 1:19:47
 
 Segment intersection:
 https://www.youtube.com/watch?v=fHOLQJo0FjQ
